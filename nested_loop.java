@@ -41,5 +41,9 @@ public class Main
 
         System.out.println();
         System.out.println("Goodbye...");
+
+        // targil:
+        // create and print 3x10 random numbers
+        // each row will have 10 random numbers
     }
 }
