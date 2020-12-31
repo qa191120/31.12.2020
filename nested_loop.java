@@ -64,7 +64,7 @@ public class Main
         // print row x column (not multiply, just letter 'x'), hint:use format
         // attention: not zero based
         // 1x1 1x2 1x3 1x4 1x5
-        // 2x1 2x2 2x3 2x9 2x10        
+        // 2x1 2x2 2x3 2x4 2x5
         
         
     }
