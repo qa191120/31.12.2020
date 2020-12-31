@@ -43,7 +43,18 @@ public class Main
         System.out.println("Goodbye...");
 
         // targil:
+        // 1
         // create and print 3x10 random numbers
         // each row will have 10 random numbers
+        // 2
+        // input from user number of rows
+        // input from user number of columns
+        // print the following:
+        // i.e. 4 rows and 5 column:
+        // 1   2  3  4  5
+        // 6   7  8  9 10
+        // 11 12 13 14 15
+        // 16 17 18 19 20
+        
     }
 }
